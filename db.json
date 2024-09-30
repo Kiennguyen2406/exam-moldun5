@@ -67,6 +67,26 @@
       "quantity": 2222,
       "price": 111,
       "description": "11"
+    },
+    {
+      "id": "44fa",
+      "productId": "PROD-0001",
+      "name": "Para",
+      "category": "Thuốc giảm đau",
+      "importDate": "2024-09-18",
+      "quantity": 1,
+      "price": 5000000,
+      "description": "thuốc chữa tiêu chảy\n"
+    },
+    {
+      "id": "8d85",
+      "productId": "PROD-3133",
+      "name": "11111111111111111111111111",
+      "category": "Thuốc giảm đau",
+      "importDate": "2024-09-06",
+      "quantity": 1,
+      "price": 1,
+      "description": "11"
     }
   ],
   "categories": [
