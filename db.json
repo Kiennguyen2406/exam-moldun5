@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Paracetamol",
+      "description": "Ibuprofen là thuốc chống viêm không steroid (NSAID) giúp giảm đau và viêm.",
+      "category": "Thuốc giảm đau",
+      "importDate": "2023-09-01",
+      "quantity": 100,
+      "price": 10000
+    },
+    {
+      "id": "2",
+      "name": "Ibuprofen",
+      "description": "Paracetamol là thuốc giảm đau và hạ sốt hiệu quả.",
+      "category": "Thuốc chống viêm",
+      "importDate": "2023-09-02",
+      "quantity": 50,
+      "price": 12000
+    },
+    {
+      "id": "cedd",
+      "productId": "PROD-3133",
+      "name": "1",
+      "category": "Thuốc giảm đau",
+      "importDate": "2020-02-22",
+      "quantity": 1,
+      "price": 1,
+      "description": "mo tả"
+    },
+    {
+      "id": "ef52",
+      "productId": "PROD-3133",
+      "name": "1",
+      "category": "Thuốc giảm đau",
+      "importDate": "2024-09-19",
+      "quantity": 1,
+      "price": 150000,
+      "description": "vip\n"
+    },
+    {
+      "id": "40f7",
+      "productId": "PROD-5555",
+      "name": "kien",
+      "category": "Thuốc giảm đau",
+      "importDate": "2024-09-18",
+      "quantity": 10,
+      "price": 5555555,
+      "description": "cần thêm sp"
+    },
+    {
+      "id": "226e",
+      "productId": "PROD-1111",
+      "name": "1",
+      "category": "Thuốc giảm đau",
+      "importDate": "2024-09-10",
+      "quantity": 1,
+      "price": 100000000,
+      "description": "Vip"
+    },
+    {
+      "id": "add8",
+      "productId": "PROD-1111",
+      "name": "1212",
+      "category": "Thuốc giảm đau",
+      "importDate": "2024-02-14",
+      "quantity": 2222,
+      "price": 111,
+      "description": "11"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Thuốc giảm đau"
+    },
+    {
+      "id": "2",
+      "name": "Thuốc chống viêm"
+    }
+  ]
+}
